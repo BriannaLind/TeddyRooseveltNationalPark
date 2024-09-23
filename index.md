@@ -1,6 +1,9 @@
 # Interactive demo map
 
-Nice to see you here!
+Nice to see you here!  
+
+Map shows a ground elevation (in meters (m) above sea level) of Theodore Roosevelt National Park in North Dakota USA with interachangeable basemaps. For the elevation layer, low lying areas are in darker shades of gray (minimum = 557 m) brighter shades represent higher elevations (max = 1034 m).
+
 
 ## Exploring the map
 
