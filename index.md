@@ -7,11 +7,7 @@ Proof of concept map for Northern Great Plains Grasslands Restoration demonstrat
 
 ## Exploring the map
 
-You can explore the map either
-- at full extent view via [link](map.html)
-
-or
-- via map embedding
+You can explore the map either at full extent view via [link](map.html) or via map embedding below:
 
 <iframe src="map.html" height="700" width="700"></iframe>
 
