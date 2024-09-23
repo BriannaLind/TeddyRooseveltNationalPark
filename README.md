@@ -1,2 +1,2 @@
 # TeddyRooseveltNationalPark
-New Version of Proof of concept map for Northern Great Plains Grasslands Restoration
+Proof of concept map for Northern Great Plains Grasslands Restoration demonstrating accessibility and versatiliy of having map data in an accessible and open loaction.  Map shows a ground elevation (in meters (m) above sea level) of Theodore Roosevelt National Park in North Dakota USA with interachangeable basemaps. For the elevation layer, low lying areas are in darker shades of gray (minimum = 557 m) brighter shades represent higher elevations (max = 1034 m).
